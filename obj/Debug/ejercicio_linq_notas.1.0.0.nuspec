@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ejercicio_linq_notas</id>
+    <version>1.0.0</version>
+    <authors>ejercicio_linq_notas</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0">
+        <dependency id="System.Data.SqlClient" version="4.8.5" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Giancarlo Naranjo\Desktop\Sudamericana-software-.net\Modulo 2 - Introduccion a C#\2.1 LINQ\Sesiones Practicas\ejercicio_linq_notas\ejercicio_linq_notas\bin\Debug\net5.0\ejercicio_linq_notas.runtimeconfig.json" target="lib\net5.0\ejercicio_linq_notas.runtimeconfig.json" />
+    <file src="C:\Users\Giancarlo Naranjo\Desktop\Sudamericana-software-.net\Modulo 2 - Introduccion a C#\2.1 LINQ\Sesiones Practicas\ejercicio_linq_notas\ejercicio_linq_notas\bin\Debug\net5.0\ejercicio_linq_notas.dll" target="lib\net5.0\ejercicio_linq_notas.dll" />
+  </files>
+</package>

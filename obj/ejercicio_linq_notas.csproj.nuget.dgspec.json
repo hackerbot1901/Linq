@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Giancarlo Naranjo\\Desktop\\Sudamericana-software-.net\\Modulo 2 - Introduccion a C#\\2.1 LINQ\\Sesiones Practicas\\ejercicio_linq_notas\\ejercicio_linq_notas\\ejercicio_linq_notas.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Giancarlo Naranjo\\Desktop\\Sudamericana-software-.net\\Modulo 2 - Introduccion a C#\\2.1 LINQ\\Sesiones Practicas\\ejercicio_linq_notas\\ejercicio_linq_notas\\ejercicio_linq_notas.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Giancarlo Naranjo\\Desktop\\Sudamericana-software-.net\\Modulo 2 - Introduccion a C#\\2.1 LINQ\\Sesiones Practicas\\ejercicio_linq_notas\\ejercicio_linq_notas\\ejercicio_linq_notas.csproj",
+        "projectName": "ejercicio_linq_notas",
+        "projectPath": "C:\\Users\\Giancarlo Naranjo\\Desktop\\Sudamericana-software-.net\\Modulo 2 - Introduccion a C#\\2.1 LINQ\\Sesiones Practicas\\ejercicio_linq_notas\\ejercicio_linq_notas\\ejercicio_linq_notas.csproj",
+        "packagesPath": "C:\\Users\\Giancarlo Naranjo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Giancarlo Naranjo\\Desktop\\Sudamericana-software-.net\\Modulo 2 - Introduccion a C#\\2.1 LINQ\\Sesiones Practicas\\ejercicio_linq_notas\\ejercicio_linq_notas\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Users\\Giancarlo Naranjo\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Giancarlo Naranjo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Giancarlo Naranjo\\AppData\\Roaming\\NuGet\\config\\Godot.Offline.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
